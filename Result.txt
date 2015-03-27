@@ -1,0 +1,56 @@
+Probabilities for sentence: 
+	Per tutta la campagna, Dilma ha promesso forti cambiamenti per venire incontro al malcontento scoppiato nella seconda metà del suo mandato, ma offrendo pochi dettagli. 
+
+Normalized Form: 
+	<<per tutta la campagna , dilma ha promesso forti cambiamenti per venire incontro al malcontento scoppiato nella seconda metà del suo mandato , ma offrendo pochi dettagli .>
+
+Probabilities:
+	Result - Language: en Value: 0
+	Result - Language: es Value: 0
+	Result - Language: fr Value: 0
+	Result - Language: it Value: 0
+	Result - Language: pt Value: 0
+Probabilities with smoothing:
+	Result - Language: it Value: -244.452098105
+	Result - Language: es Value: -291.731348407
+	Result - Language: pt Value: -302.149144634
+	Result - Language: en Value: -322.030941562
+	Result - Language: fr Value: -322.756675149
+###########################################
+Probabilities for sentence: 
+	La presidenta brasileña, Dilma Rousseff, ha ganado la segunda vuelta electoral celebrada este domingo con un 51,64% de los votos, frente al 48,55% del socialdemócrata Aécio Neves, según datos del Tribunal Superior Electoral con un 99,99% del censo escrutado en unas elecciones que el presidente del Supremo Tribunal Federal (STF), Ricardo Lewandowski, ha calificado como "una verdadera fuesta de la democracia". 
+
+Normalized Form: 
+	<<la presidenta brasileña , dilma rousseff , ha ganado la segunda vuelta electoral celebrada este domingo con un 51 , 64 % de los votos , frente al 48 , 55 % del socialdemócrata aécio neves , según datos del tribunal superior electoral con un 99 , 99 % del censo escrutado en unas elecciones que el presidente del supremo tribunal federal ( stf ) , ricardo lewandowski , ha calificado como " una verdadera fuesta de la democracia " .>
+
+Probabilities:
+	Result - Language: en Value: 0
+	Result - Language: es Value: 0
+	Result - Language: fr Value: 0
+	Result - Language: it Value: 0
+	Result - Language: pt Value: 0
+Probabilities with smoothing:
+	Result - Language: es Value: -580.139259807
+	Result - Language: it Value: -597.446876609
+	Result - Language: pt Value: -612.260724631
+	Result - Language: fr Value: -670.632895901
+	Result - Language: en Value: -677.61713453
+###########################################
+Probabilities for sentence: 
+	Marcelo Rebelo de Sousa reagiu neste domingo às críticas que o primeiro-ministro fez no sábado aos comentadores políticos e aos jornalistas, acusando-os de serem “preguiçosos” e “patéticos”. 
+
+Normalized Form: 
+	<<marcelo rebelo de sousa reagiu neste domingo às críticas que o primeiro-ministro fez no sábado aos comentadores políticos e aos jornalistas , acusando-os de serem “ preguiçosos ” e “ patéticos ” .>
+
+Probabilities:
+	Result - Language: en Value: 0
+	Result - Language: es Value: 0
+	Result - Language: fr Value: 0
+	Result - Language: it Value: 0
+	Result - Language: pt Value: 0
+Probabilities with smoothing:
+	Result - Language: pt Value: -299.405907629
+	Result - Language: es Value: -321.707367311
+	Result - Language: it Value: -337.687128684
+	Result - Language: fr Value: -360.868798599
+	Result - Language: en Value: -363.853901415
